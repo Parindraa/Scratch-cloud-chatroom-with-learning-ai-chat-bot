@@ -2,3 +2,4 @@
 
 
 This might be deleted, however I attached the file in the releases section. https://scratch.mit.edu/projects/813925298/
+Explanation of how it works inside the project.
